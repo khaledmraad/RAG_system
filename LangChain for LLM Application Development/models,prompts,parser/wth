@@ -1,0 +1,20 @@
+you can look directly to file and save effort
+
+
+when you use an application using llm there is reusable models 
+parse the prompt and ouput 
+langchain give a lot of abstraction to do this (and many version error ofc)
+
+talk to llm with language other then english (or just learn english) or if u work in customer service for azure you can use langchain
+
+its lie just use fstring
+
+if you wan the result of the llm to be in specific format you can use langchain
+with langchain you can parse the output and instruct it to use certain format
+
+
+
+
+
+
+

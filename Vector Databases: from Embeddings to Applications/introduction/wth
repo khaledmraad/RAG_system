@@ -1,0 +1,14 @@
+so llm dont remember and limited by by trained data
+
+we will use RAG (GARRA >>)
+
+in witch we use vector data base where data or text are stored in vector space then the query search for similar vector there then that similar vector is converted back to text and send to llm as prompt ,wooooww??
+
+so leats learn how vector data base used 
+
+many technical words will be used 
+
+dont be scared okey okeey
+
+many acknowledgement ofc
+

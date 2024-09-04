@@ -1,0 +1,16 @@
+given a piece of text (pdf, text ,..) can we make an llm to answer question about the content of the content of the text 
+
+we can use vector store to load the document
+
+we chunk the document of text then creat an embedding for each cunk
+to store the ebedding vector in a vector database (like pinecone)
+
+then we get the query( ptompt) of the use and also create its embedding 
+then we compare that to the ebedding of each chunk in the vector database
+then we pick the most similar 
+
+
+----
+we can use map_reduce to passe the cunks into lllm then into llm then get the fianl answer (just look at the picture bro)
+
+

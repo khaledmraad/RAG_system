@@ -1,0 +1,11 @@
+a chain combines an llm with a prompt and make them into sequential blocks
+
+simple sequential chain works best if there is one input and one output
+
+what about multiple inputs and multiple outputs we use SequentialChain
+
+we can route the output of one chain to the input of the next likeif else 
+
+
+
+

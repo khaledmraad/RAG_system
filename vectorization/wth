@@ -1,0 +1,15 @@
+80% of data in the world is unstructured so you cant put them in relationnnal databases.
+like images , video and files
+
+a vector data base indexed and store vector embedddings for fast retrieval and similarity search
+
+
+unstructured data -> llm model -> vetcor embedding
+
+vecttor also have to be indexed 
+
+index is a data structure that facilitate the search process
+so the indexing process maps vector to new data structure that can be used for faster search (a hole research field)
+
+
+ 

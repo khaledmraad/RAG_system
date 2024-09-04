@@ -1,0 +1,10 @@
+when converting a text into embedded vector 
+there are mutiple ways to get thte similarities
+
+Euclidean Distance(L2)
+Manhattan Distance(L1)
+Dot Product
+Cosine Distance
+
+
+

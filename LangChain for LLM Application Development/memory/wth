@@ -1,0 +1,8 @@
+when you interact with models they dont remember you (:3) if you want to have a conversantion with them 
+so how can you make them remember previous part of the conversation and feed that into the language model
+ITSSS with langchain 
+
+
+its all saved in memory buffer (vuln to RCE??)
+
+
